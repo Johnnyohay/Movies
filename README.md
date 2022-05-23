@@ -13,6 +13,14 @@ Submission of the 1st prt of the project: GUI details(general):
 
 
 
+![image](https://user-images.githubusercontent.com/49618587/169826797-e701d80b-8c70-48a2-8f01-16a2c20fbf19.png)
+
+
+
+
+
+
+
 
 
 
