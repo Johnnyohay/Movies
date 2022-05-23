@@ -3,7 +3,7 @@ This repo contains all the development needed for a web application in movies or
 
 Authors: 
 Yoav Ben Horin
-Tom Rozenwacks
+Tom Rozenwaks
 Jonathan Ohayon 
 
 
